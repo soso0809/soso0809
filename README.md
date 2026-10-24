@@ -37,13 +37,13 @@
 
 | Rank | Projects | Status |
 |:---:|---|:---:|
-| **00** | [`libft`](https://github.com/soso0809/Libft) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
-| **01** | [`ft_printf`](https://github.com/soso0809/Ft_Printf) · [`get_next_line`](https://github.com/soso0809/get_next_line) · `born2beroot` | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
-| **02** | [`pipex`](https://github.com/soso0809/pipex) · [`minitalk`](https://github.com/soso0809/minitalk) · [`push_swap`](https://github.com/soso0809/push_swap) · [`so_long`](https://github.com/soso0809/so_long) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
-| **03** | [`minishell`](https://github.com/soso0809/minishell) · [`philosophers`](https://github.com/soso0809/philosophers) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
-| **04** | [`cub3D`](https://github.com/ooiac/cub3d) · [`NetPractice`](https://github.com/soso0809/netpractice) · [`CPP 00 → 04`](https://github.com/soso0809/cpp) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
-| **05** | [`webserv`](https://github.com/soso0809/webserv) · [`CPP 05 → 09`](https://github.com/soso0809/cpp) · `Inception` | ![](https://img.shields.io/badge/in%20progress%20✿-FFD6A5?style=flat-square) |
-| **06** | `ft_transcendence` | ![](https://img.shields.io/badge/locked-E8E1EF?style=flat-square) |
+| 🩷 **00** | [`libft`](https://github.com/soso0809/Libft) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
+| 🩷 **01** | [`ft_printf`](https://github.com/soso0809/Ft_Printf) · [`get_next_line`](https://github.com/soso0809/get_next_line) · `born2beroot` | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
+| 💜 **02** | [`pipex`](https://github.com/soso0809/pipex) · [`minitalk`](https://github.com/soso0809/minitalk) · [`push_swap`](https://github.com/soso0809/push_swap) · [`so_long`](https://github.com/soso0809/so_long) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
+| 🩵 **03** | [`minishell`](https://github.com/soso0809/minishell) · [`philosophers`](https://github.com/soso0809/philosophers) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
+| 💚 **04** | [`cub3D`](https://github.com/ooiac/cub3d) · [`NetPractice`](https://github.com/soso0809/netpractice) · [`CPP 00 → 04`](https://github.com/soso0809/cpp) | ![](https://img.shields.io/badge/validated-B9FBC0?style=flat-square) |
+| 🧡 **05** | [`webserv`](https://github.com/soso0809/webserv) · [`CPP 05 → 09`](https://github.com/soso0809/cpp) · `Inception` | ![](https://img.shields.io/badge/in%20progress%20✿-FFD6A5?style=flat-square) |
+| 🤍 **06** | `ft_transcendence` | ![](https://img.shields.io/badge/locked-E8E1EF?style=flat-square) |
 
 <details>
 <summary><b>🌼 Rank 05 in detail</b></summary>
