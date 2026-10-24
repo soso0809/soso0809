@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/Rank%2006-🔒-E8E1EF?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="progress.svg" width="100%" alt="Common Core progress: 76%" />
+</p>
+
 > 🌐 **Currently building `webserv`** — an HTTP/1.1 server in C++98 (non-blocking I/O, `poll()`, CGI, config file parsing).<br/>
 > 📚 Finishing the **C++ modules 07 → 09** at the same time.
 
