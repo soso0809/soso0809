@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:CDB4DB,100:BDE0FE&height=200&section=header&text=Hi,%20I'm%20Solenn%20%F0%9F%8C%B8&fontColor=5B4B6B&fontSize=44&fontAlignY=38&desc=42%20student%20%C2%B7%20C%20%2F%20C%2B%2B%20%2F%20Unix&descColor=5B4B6B&descSize=18&descAlignY=58" width="100%" />
+<img src="banner.svg" width="100%" alt="Hi, I'm Solenn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B392C9&center=true&vCenter=true&width=520&lines=Currently+building+webserv+%F0%9F%8C%90;HTTP%2F1.1+server+in+C%2B%2B98;Learning+one+project+at+a+time+%E2%9C%A8" />
